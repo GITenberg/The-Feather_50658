@@ -1,15 +1,21 @@
 _repo: The-Feather_50658
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Brown, F. Madox
     gutenberg_agent_id: '45003'
     url: http://www.gutenberg.org/2009/agents/45003
+covers:
+- cover_type: archival
+  image_path: 50658-h/images/cover_back.jpg
 creator:
   author:
     agent_name: Hueffer, Ford H. Madox
     gutenberg_agent_id: '45002'
     url: http://www.gutenberg.org/2009/agents/45002
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50658#The-Feather
 gutenberg_issued: '2015-12-10'
 gutenberg_type: Text
 identifiers:
